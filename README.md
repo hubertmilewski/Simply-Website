@@ -1,8 +1,10 @@
-# React + Vite
+# React + Vite + Tailwind Css
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Simply Website is a simple application built in React, using Vite as the design builder and Tailwind CSS for styling. The site is hosted on GitHub Pages and uses HashRouter routing, which allows the application to function properly on GitHub Pages.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features:
+• A simple React-based application.
+• Uses Tailwind CSS to style the UI.
+• Routing using HashRouter with React Router.
+• Published on GitHub Pages.
+• Many subpages, such as: Home, About, Opinions, Offers, Contact.
